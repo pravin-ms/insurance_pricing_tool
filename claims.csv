@@ -1,0 +1,4 @@
+PolicyID,Country,Sector,Broker,GWP,ClaimsReserve
+P001,US,Cyber,Aon,10000,7000
+P002,IN,Construction,Marsh,15000,12000
+P003,UK,Auto,Willis,12000,2000

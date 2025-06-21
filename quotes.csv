@@ -1,0 +1,6 @@
+QuoteID,Country,Sector,Broker,PriceQuoted,Result
+Q001,US,Cyber,Aon,5000,Win
+Q002,US,Cyber,Aon,6000,Loss
+Q003,IN,Construction,Marsh,10000,Win
+Q004,IN,Construction,Marsh,12000,Loss
+Q005,UK,Auto,Willis,7000,Win
