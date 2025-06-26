@@ -24,8 +24,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.image("https://cdn.prod.website-files.com/67b608ea58e266b5f621042c/67b63d2d6b6941fdc36b31cd_logo-mulberri.svg", width=170)
-
 st.title("Mulberri AI-Powered Insurance Pricing Tool")
 
 col1, col2 = st.columns(2)
